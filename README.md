@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## My name is [Robert Taylor](https://www.linkedin.com/in/robertvantaylor/), a full-stack software engineer who enjoys problem-solving and bug :bug: hunting.
+
+
 <!--
 **rvtaylor94/rvtaylor94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
